@@ -1,0 +1,14 @@
+C:\Users\ruanp\OneDrive\Desktop\Exercicios\Exercicio3\bin\Debug\net9.0\Exercicio3.exe
+C:\Users\ruanp\OneDrive\Desktop\Exercicios\Exercicio3\bin\Debug\net9.0\Exercicio3.deps.json
+C:\Users\ruanp\OneDrive\Desktop\Exercicios\Exercicio3\bin\Debug\net9.0\Exercicio3.runtimeconfig.json
+C:\Users\ruanp\OneDrive\Desktop\Exercicios\Exercicio3\bin\Debug\net9.0\Exercicio3.dll
+C:\Users\ruanp\OneDrive\Desktop\Exercicios\Exercicio3\bin\Debug\net9.0\Exercicio3.pdb
+C:\Users\ruanp\OneDrive\Desktop\Exercicios\Exercicio3\obj\Debug\net9.0\Exercicio3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruanp\OneDrive\Desktop\Exercicios\Exercicio3\obj\Debug\net9.0\Exercicio3.AssemblyInfoInputs.cache
+C:\Users\ruanp\OneDrive\Desktop\Exercicios\Exercicio3\obj\Debug\net9.0\Exercicio3.AssemblyInfo.cs
+C:\Users\ruanp\OneDrive\Desktop\Exercicios\Exercicio3\obj\Debug\net9.0\Exercicio3.csproj.CoreCompileInputs.cache
+C:\Users\ruanp\OneDrive\Desktop\Exercicios\Exercicio3\obj\Debug\net9.0\Exercicio3.dll
+C:\Users\ruanp\OneDrive\Desktop\Exercicios\Exercicio3\obj\Debug\net9.0\refint\Exercicio3.dll
+C:\Users\ruanp\OneDrive\Desktop\Exercicios\Exercicio3\obj\Debug\net9.0\Exercicio3.pdb
+C:\Users\ruanp\OneDrive\Desktop\Exercicios\Exercicio3\obj\Debug\net9.0\Exercicio3.genruntimeconfig.cache
+C:\Users\ruanp\OneDrive\Desktop\Exercicios\Exercicio3\obj\Debug\net9.0\ref\Exercicio3.dll
