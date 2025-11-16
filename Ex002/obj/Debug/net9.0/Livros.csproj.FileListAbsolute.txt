@@ -1,0 +1,14 @@
+C:\Users\ruanp\OneDrive\Desktop\Livros\Livros\bin\Debug\net9.0\Livros.exe
+C:\Users\ruanp\OneDrive\Desktop\Livros\Livros\bin\Debug\net9.0\Livros.deps.json
+C:\Users\ruanp\OneDrive\Desktop\Livros\Livros\bin\Debug\net9.0\Livros.runtimeconfig.json
+C:\Users\ruanp\OneDrive\Desktop\Livros\Livros\bin\Debug\net9.0\Livros.dll
+C:\Users\ruanp\OneDrive\Desktop\Livros\Livros\bin\Debug\net9.0\Livros.pdb
+C:\Users\ruanp\OneDrive\Desktop\Livros\Livros\obj\Debug\net9.0\Livros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruanp\OneDrive\Desktop\Livros\Livros\obj\Debug\net9.0\Livros.AssemblyInfoInputs.cache
+C:\Users\ruanp\OneDrive\Desktop\Livros\Livros\obj\Debug\net9.0\Livros.AssemblyInfo.cs
+C:\Users\ruanp\OneDrive\Desktop\Livros\Livros\obj\Debug\net9.0\Livros.csproj.CoreCompileInputs.cache
+C:\Users\ruanp\OneDrive\Desktop\Livros\Livros\obj\Debug\net9.0\Livros.dll
+C:\Users\ruanp\OneDrive\Desktop\Livros\Livros\obj\Debug\net9.0\refint\Livros.dll
+C:\Users\ruanp\OneDrive\Desktop\Livros\Livros\obj\Debug\net9.0\Livros.pdb
+C:\Users\ruanp\OneDrive\Desktop\Livros\Livros\obj\Debug\net9.0\Livros.genruntimeconfig.cache
+C:\Users\ruanp\OneDrive\Desktop\Livros\Livros\obj\Debug\net9.0\ref\Livros.dll

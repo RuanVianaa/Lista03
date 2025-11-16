@@ -1,0 +1,14 @@
+C:\Users\ruanp\OneDrive\Desktop\Gado\Gados\bin\Debug\net9.0\Gados.exe
+C:\Users\ruanp\OneDrive\Desktop\Gado\Gados\bin\Debug\net9.0\Gados.deps.json
+C:\Users\ruanp\OneDrive\Desktop\Gado\Gados\bin\Debug\net9.0\Gados.runtimeconfig.json
+C:\Users\ruanp\OneDrive\Desktop\Gado\Gados\bin\Debug\net9.0\Gados.dll
+C:\Users\ruanp\OneDrive\Desktop\Gado\Gados\bin\Debug\net9.0\Gados.pdb
+C:\Users\ruanp\OneDrive\Desktop\Gado\Gados\obj\Debug\net9.0\Gados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ruanp\OneDrive\Desktop\Gado\Gados\obj\Debug\net9.0\Gados.AssemblyInfoInputs.cache
+C:\Users\ruanp\OneDrive\Desktop\Gado\Gados\obj\Debug\net9.0\Gados.AssemblyInfo.cs
+C:\Users\ruanp\OneDrive\Desktop\Gado\Gados\obj\Debug\net9.0\Gados.csproj.CoreCompileInputs.cache
+C:\Users\ruanp\OneDrive\Desktop\Gado\Gados\obj\Debug\net9.0\Gados.dll
+C:\Users\ruanp\OneDrive\Desktop\Gado\Gados\obj\Debug\net9.0\refint\Gados.dll
+C:\Users\ruanp\OneDrive\Desktop\Gado\Gados\obj\Debug\net9.0\Gados.pdb
+C:\Users\ruanp\OneDrive\Desktop\Gado\Gados\obj\Debug\net9.0\Gados.genruntimeconfig.cache
+C:\Users\ruanp\OneDrive\Desktop\Gado\Gados\obj\Debug\net9.0\ref\Gados.dll
